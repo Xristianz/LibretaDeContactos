@@ -9,6 +9,8 @@ import java.util.Scanner;
 public class Principal {
 
     public static void main(String[] args) {
+        System.out.println("Voy a perder el ciclo si me sigo llevando con el Sebastian!");
+
         Scanner scanner = new Scanner(System.in);
 
         Persona persona= new Persona();
