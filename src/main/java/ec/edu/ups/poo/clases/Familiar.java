@@ -8,7 +8,7 @@ public class Familiar extends Persona {
     private String parentesco;
     private String tipoDeSangre;
     private GregorianCalendar fechaDeNacimiento;
-
+//El calderón es tan chevere, el si sabia como hacer el deber y no se invento que sabia.
     public Familiar() {
         super();
     }
